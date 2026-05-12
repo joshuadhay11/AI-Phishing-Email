@@ -1,0 +1,321 @@
+text,label
+"Subject: Mailbox suspension warning
+Body: A new voice message is waiting. Open the secure playback portal at [safe-link-placeholder].",phishing
+"Subject: VPN reactivation required
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Maintenance notice
+Body: The updated employee handbook is available on the HR portal for reference.",legitimate
+"Subject: Vendor invoice
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Onboarding session
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Immediate verification required
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Final payroll notice
+Body: Your account has been flagged for policy violations. Appeal immediately using [safe-link-placeholder].",phishing
+"Subject: Project schedule
+Body: Please join the onboarding session for the new intern group at 2:15 PM.",legitimate
+"Subject: Final payroll notice
+Body: A new voice message is waiting. Open the secure playback portal at [safe-link-placeholder].",phishing
+"Subject: Mailbox suspension warning
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Secure document shared
+Body: Action required: your VPN access has been suspended. Re-activate it using [safe-link-placeholder].",phishing
+"Subject: Engineering sync
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: Vendor invoice
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: Project schedule
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Training reminder
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: Training reminder
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: CEO confidential request
+Body: Your direct deposit failed. Confirm your banking details immediately at [safe-link-placeholder].",phishing
+"Subject: Firewall update
+Body: The maintenance window is scheduled for Monday from 2:15 PM to 9:00 AM. No action is needed from users.",legitimate
+"Subject: Engineering sync
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Immediate verification required
+Body: Unpaid vendor balance detected. Process payment today to avoid legal escalation.",phishing
+"Subject: Firewall update
+Body: The release candidate passed the initial QA checks. Additional regression testing starts tomorrow.",legitimate
+"Subject: Final payroll notice
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Meeting update
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Invoice payment overdue
+Body: The finance department needs your password to finalize an urgent payment approval.",phishing
+"Subject: Report feedback
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: Report feedback
+Body: Your badge access request for the lab area has been submitted for manager review.",legitimate
+"Subject: CEO confidential request
+Body: Important compliance document attached. Open it and enable editing to view the full contents.",phishing
+"Subject: Invoice payment overdue
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Engineering sync
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: Invoice payment overdue
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: CEO confidential request
+Body: HR shared a confidential compensation file with you. Sign in at [safe-link-placeholder] to access it.",phishing
+"Subject: Engineering sync
+Body: Your badge access request for the lab area has been submitted for manager review.",legitimate
+"Subject: Policy reminder
+Body: Thanks for sending the report. I added a few comments and returned it for review.",legitimate
+"Subject: Firewall update
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: Document review
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Firewall update
+Body: The security awareness training is available in the employee portal. Please complete it by Friday.",legitimate
+"Subject: Vendor invoice
+Body: Your PTO request has been approved. The calendar has been updated to reflect the change.",legitimate
+"Subject: Secure document shared
+Body: Unpaid vendor balance detected. Process payment today to avoid legal escalation.",phishing
+"Subject: Final payroll notice
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Secure document shared
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Onboarding session
+Body: Please confirm whether the conference room is available for the project review meeting.",legitimate
+"Subject: Mailbox suspension warning
+Body: You have been selected for a bonus payment. Confirm your employee ID and password at [safe-link-placeholder].",phishing
+"Subject: Final payroll notice
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Vendor invoice
+Body: Here are the meeting notes from today's product planning session.",legitimate
+"Subject: Invoice payment overdue
+Body: You have been selected for a bonus payment. Confirm your employee ID and password at [safe-link-placeholder].",phishing
+"Subject: Immediate verification required
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Final payroll notice
+Body: Your direct deposit failed. Confirm your banking details immediately at [safe-link-placeholder].",phishing
+"Subject: Security alert
+Body: A new voice message is waiting. Open the secure playback portal at [safe-link-placeholder].",phishing
+"Subject: Document review
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Mailbox suspension warning
+Body: Security alert: unusual login detected from a new device. Confirm your identity at [safe-link-placeholder].",phishing
+"Subject: PTO approved
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: PTO approved
+Body: Attached is the updated project schedule for next week. Let me know if anything looks incorrect.",legitimate
+"Subject: Invoice payment overdue
+Body: Your account has been flagged for policy violations. Appeal immediately using [safe-link-placeholder].",phishing
+"Subject: PTO approved
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: CEO confidential request
+Body: Your account has been flagged for policy violations. Appeal immediately using [safe-link-placeholder].",phishing
+"Subject: Secure document shared
+Body: Urgent: your ChirpyHub password expires today. Verify your account immediately at [safe-link-placeholder].",phishing
+"Subject: Firewall update
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Report feedback
+Body: The release candidate passed the initial QA checks. Additional regression testing starts tomorrow.",legitimate
+"Subject: Mailbox suspension warning
+Body: Important compliance document attached. Open it and enable editing to view the full contents.",phishing
+"Subject: Engineering sync
+Body: Hi team, the sprint review meeting has been moved to 10:30 AM. Please check the calendar invite for details.",legitimate
+"Subject: Final payroll notice
+Body: Important compliance document attached. Open it and enable editing to view the full contents.",phishing
+"Subject: Invoice payment overdue
+Body: Your direct deposit failed. Confirm your banking details immediately at [safe-link-placeholder].",phishing
+"Subject: PTO approved
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: VPN reactivation required
+Body: Urgent: your ChirpyHub password expires today. Verify your account immediately at [safe-link-placeholder].",phishing
+"Subject: URGENT account action required
+Body: Final notice: your payroll information is incomplete. Update your payment profile at [safe-link-placeholder].",phishing
+"Subject: Document review
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Engineering sync
+Body: Please join the onboarding session for the new intern group at 1:00 PM.",legitimate
+"Subject: URGENT account action required
+Body: You have received a secure document. Enter your company username and password at [safe-link-placeholder].",phishing
+"Subject: Invoice payment overdue
+Body: Your account will be disabled in 30 minutes unless you validate your credentials at [safe-link-placeholder].",phishing
+"Subject: Security alert
+Body: Security alert: unusual login detected from a new device. Confirm your identity at [safe-link-placeholder].",phishing
+"Subject: Mailbox suspension warning
+Body: Urgent: your ChirpyHub password expires today. Verify your account immediately at [safe-link-placeholder].",phishing
+"Subject: Firewall update
+Body: Thanks for sending the report. I added a few comments and returned it for review.",legitimate
+"Subject: Security alert
+Body: Your Microsoft 365 session expired. Restore access through the verification page at [safe-link-placeholder].",phishing
+"Subject: Mailbox suspension warning
+Body: You have received a secure document. Enter your company username and password at [safe-link-placeholder].",phishing
+"Subject: Engineering sync
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: Immediate verification required
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Immediate verification required
+Body: Urgent: your ChirpyHub password expires today. Verify your account immediately at [safe-link-placeholder].",phishing
+"Subject: VPN reactivation required
+Body: Action required: your VPN access has been suspended. Re-activate it using [safe-link-placeholder].",phishing
+"Subject: Engineering sync
+Body: Attached is the updated project schedule for next week. Let me know if anything looks incorrect.",legitimate
+"Subject: Report feedback
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Mailbox suspension warning
+Body: Unpaid vendor balance detected. Process payment today to avoid legal escalation.",phishing
+"Subject: Maintenance notice
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: Firewall update
+Body: Please join the onboarding session for the new intern group at 9:00 AM.",legitimate
+"Subject: CEO confidential request
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Policy reminder
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: PTO approved
+Body: The security awareness training is available in the employee portal. Please complete it by Friday.",legitimate
+"Subject: Firewall update
+Body: The maintenance window is scheduled for Monday from 1:00 PM to 10:30 AM. No action is needed from users.",legitimate
+"Subject: Policy reminder
+Body: The network team completed the firewall rule update. Services should be operating normally.",legitimate
+"Subject: Training reminder
+Body: The maintenance window is scheduled for Friday from 2:15 PM to 3:45 PM. No action is needed from users.",legitimate
+"Subject: Security alert
+Body: Action required: your VPN access has been suspended. Re-activate it using [safe-link-placeholder].",phishing
+"Subject: Document review
+Body: Thanks for sending the report. I added a few comments and returned it for review.",legitimate
+"Subject: Vendor invoice
+Body: Here are the meeting notes from today's product planning session.",legitimate
+"Subject: Training reminder
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: VPN reactivation required
+Body: Important compliance document attached. Open it and enable editing to view the full contents.",phishing
+"Subject: Meeting update
+Body: The release candidate passed the initial QA checks. Additional regression testing starts tomorrow.",legitimate
+"Subject: Firewall update
+Body: Your badge access request for the lab area has been submitted for manager review.",legitimate
+"Subject: Policy reminder
+Body: The help desk ticket has been closed after confirming the printer issue was resolved.",legitimate
+"Subject: Secure document shared
+Body: Final notice: your payroll information is incomplete. Update your payment profile at [safe-link-placeholder].",phishing
+"Subject: Policy reminder
+Body: The release candidate passed the initial QA checks. Additional regression testing starts tomorrow.",legitimate
+"Subject: Invoice payment overdue
+Body: You have received a secure document. Enter your company username and password at [safe-link-placeholder].",phishing
+"Subject: Secure document shared
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Engineering sync
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: Document review
+Body: The security awareness training is available in the employee portal. Please complete it by Friday.",legitimate
+"Subject: Training reminder
+Body: Please join the onboarding session for the new intern group at 3:45 PM.",legitimate
+"Subject: Security alert
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Training reminder
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: CEO confidential request
+Body: IT support detected malware on your workstation. Download the emergency cleanup tool from [safe-link-placeholder].",phishing
+"Subject: Mailbox suspension warning
+Body: Final notice: your payroll information is incomplete. Update your payment profile at [safe-link-placeholder].",phishing
+"Subject: Security alert
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Mailbox suspension warning
+Body: Your Microsoft 365 session expired. Restore access through the verification page at [safe-link-placeholder].",phishing
+"Subject: Onboarding session
+Body: Here are the meeting notes from today's product planning session.",legitimate
+"Subject: Secure document shared
+Body: Your account will be disabled in 30 minutes unless you validate your credentials at [safe-link-placeholder].",phishing
+"Subject: Vendor invoice
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: PTO approved
+Body: Your badge access request for the lab area has been submitted for manager review.",legitimate
+"Subject: Invoice payment overdue
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Invoice payment overdue
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: URGENT account action required
+Body: Final notice: your payroll information is incomplete. Update your payment profile at [safe-link-placeholder].",phishing
+"Subject: Vendor invoice
+Body: Please join the onboarding session for the new intern group at 1:00 PM.",legitimate
+"Subject: Immediate verification required
+Body: The finance department needs your password to finalize an urgent payment approval.",phishing
+"Subject: Security alert
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Firewall update
+Body: Here are the meeting notes from today's product planning session.",legitimate
+"Subject: URGENT account action required
+Body: Your Microsoft 365 session expired. Restore access through the verification page at [safe-link-placeholder].",phishing
+"Subject: Document review
+Body: The security awareness training is available in the employee portal. Please complete it by Friday.",legitimate
+"Subject: Vendor invoice
+Body: Hi team, the sprint review meeting has been moved to 3:45 PM. Please check the calendar invite for details.",legitimate
+"Subject: CEO confidential request
+Body: Action required: your VPN access has been suspended. Re-activate it using [safe-link-placeholder].",phishing
+"Subject: Training reminder
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Invoice payment overdue
+Body: The finance department needs your password to finalize an urgent payment approval.",phishing
+"Subject: Final payroll notice
+Body: IT support detected malware on your workstation. Download the emergency cleanup tool from [safe-link-placeholder].",phishing
+"Subject: Report feedback
+Body: The updated employee handbook is available on the HR portal for reference.",legitimate
+"Subject: Immediate verification required
+Body: HR shared a confidential compensation file with you. Sign in at [safe-link-placeholder] to access it.",phishing
+"Subject: Mailbox suspension warning
+Body: Unpaid vendor balance detected. Process payment today to avoid legal escalation.",phishing
+"Subject: Report feedback
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: Invoice payment overdue
+Body: You have received a secure document. Enter your company username and password at [safe-link-placeholder].",phishing
+"Subject: URGENT account action required
+Body: CEO request: purchase gift cards for a confidential employee reward program and reply with the codes.",phishing
+"Subject: Mailbox suspension warning
+Body: ChirpyHub security requires all employees to re-authenticate before the end of the day at [safe-link-placeholder].",phishing
+"Subject: Training reminder
+Body: The maintenance window is scheduled for Tuesday from 3:45 PM to 9:00 AM. No action is needed from users.",legitimate
+"Subject: Firewall update
+Body: Reminder that the engineering sync is tomorrow morning. Please bring updates on your current tasks.",legitimate
+"Subject: Training reminder
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Onboarding session
+Body: I pushed the latest changes to the repository. Please pull the main branch before testing.",legitimate
+"Subject: Meeting update
+Body: The invoice from our approved vendor has been received and routed through the standard approval process.",legitimate
+"Subject: Final payroll notice
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: Policy reminder
+Body: Here are the meeting notes from today's product planning session.",legitimate
+"Subject: Policy reminder
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
+"Subject: Vendor invoice
+Body: The security awareness training is available in the employee portal. Please complete it by Friday.",legitimate
+"Subject: Training reminder
+Body: Can you review the latest design document and leave comments before the end of the day?",legitimate
+"Subject: Immediate verification required
+Body: Your direct deposit failed. Confirm your banking details immediately at [safe-link-placeholder].",phishing
+"Subject: Immediate verification required
+Body: A new voice message is waiting. Open the secure playback portal at [safe-link-placeholder].",phishing
+"Subject: Immediate verification required
+Body: Your Microsoft 365 session expired. Restore access through the verification page at [safe-link-placeholder].",phishing
+"Subject: VPN reactivation required
+Body: Final notice: your payroll information is incomplete. Update your payment profile at [safe-link-placeholder].",phishing
+"Subject: Immediate verification required
+Body: Your mailbox storage is full. Log in now at [safe-link-placeholder] to prevent account suspension.",phishing
+"Subject: VPN reactivation required
+Body: HR shared a confidential compensation file with you. Sign in at [safe-link-placeholder] to access it.",phishing
+"Subject: Immediate verification required
+Body: Action required: your VPN access has been suspended. Re-activate it using [safe-link-placeholder].",phishing
+"Subject: Invoice payment overdue
+Body: Important compliance document attached. Open it and enable editing to view the full contents.",phishing
+"Subject: Report feedback
+Body: The maintenance window is scheduled for Thursday from 2:15 PM to 2:15 PM. No action is needed from users.",legitimate
+"Subject: Final payroll notice
+Body: Your direct deposit failed. Confirm your banking details immediately at [safe-link-placeholder].",phishing
+"Subject: Maintenance notice
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: Mailbox suspension warning
+Body: Your Microsoft 365 session expired. Restore access through the verification page at [safe-link-placeholder].",phishing
+"Subject: Onboarding session
+Body: Your badge access request for the lab area has been submitted for manager review.",legitimate
+"Subject: Training reminder
+Body: The database backup completed successfully last night. No errors were reported.",legitimate
+"Subject: Vendor invoice
+Body: The password policy reminder was posted on the internal wiki. No password reset is required at this time.",legitimate
