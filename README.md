@@ -1,11 +1,11 @@
 # AI Phishing Email Detection Project
 
+NOTE: MODEL FOLDER NOT INCLUDED (WILL HAVE TO BE RAN ON HOST MACHINE DUE TO UPLOAD LIMITS)
+
 This project fine-tunes a Hugging Face text classification model to classify emails as:
 
 - `legitimate`
 - `phishing`
-
-NOTE: MODEL FOLDER NOT INCLUDED (WILL HAVE TO BE RAN ON HOST MACHINE DUE TO UPLOAD LIMITS)
 
 The dataset is synthetic and uses `[safe-link-placeholder]` instead of live URLs.
 
