@@ -5,6 +5,8 @@ This project fine-tunes a Hugging Face text classification model to classify ema
 - `legitimate`
 - `phishing`
 
+NOTE: MODEL FOLDER NOT INCLUDED (WILL HAVE TO BE RAN ON HOST MACHINE DUE TO UPLOAD LIMITS)
+
 The dataset is synthetic and uses `[safe-link-placeholder]` instead of live URLs.
 
 ## Setup
